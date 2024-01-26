@@ -1,7 +1,6 @@
 ### Hello! I'm Gabriel Pires, a Computer Science undergraduate! 👨‍💻💻
 
-#### I am a technology enthusiastic at the second semester of Computer Science with a good background in Calculus, Maths and Programming. I aim to work with Backend Developing, Machine Learning, Artificial Intelligence and Data Science. Also, I'm participating in a research group about Quantum Computing.
-
+#### I am a technology enthusiastic at the second semester of Computer Science with a good background in Calculus, Maths and Programming. I aim to work with Software Development, Machine Learning, Artificial Intelligence and Data Science.
 #
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-pires-777106222)
