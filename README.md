@@ -17,21 +17,12 @@ This experience allowed me to develop leadership, communication, and problem-sol
 I participated in scientific research in the field of **Quantum Computing**, where I utilized the **Quantum Approximate Optimization Algorithm (QAOA)** to solve the **Job Shop Scheduling Problem**. This work resulted in the approval of **1 scientific paper**, contributing to the advancement of knowledge at the intersection of quantum computing and process optimization.
 
 #### 💡 Technical Skills
-- **Programming Languages**: Node.js, Python, C, Java
+- **Programming Languages**: Node.js, Python, C, Java, Go
 - **Frameworks and Tools**: Django, Spring-boot, Azure
 - **Databases**: MySQL
 
 #### 🎯 Current Focus
 Currently, I am focusing my studies on **Back-End Development** and **DevOps**, aiming to deepen my knowledge in technologies such as Docker, Kubernetes, AWS/Azure, and automation practices to enhance the efficiency and scalability of applications.
-
-#### 📫 Let’s Connect!
-I am always open to new opportunities and collaborations. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/gabriel-pires-777106222/) or via email at gabriel@example.com.
-
----
-
-🔭 **Currently**: Exploring new technologies in Back-End and DevOps  
-🌱 **Learning**: Kubernetes, AWS, advanced CI/CD practices  
-📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/gabriel-pires-777106222/)
 
 ---
 
@@ -46,11 +37,5 @@ I am always open to new opportunities and collaborations. Feel free to reach out
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-✨ **Thank you for visiting my profile! Let’s build something amazing together!**
-
-#shorts #README #Developer #ComputerScience
 
 ---
