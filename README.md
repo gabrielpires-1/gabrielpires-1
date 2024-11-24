@@ -1,32 +1,14 @@
-### 👋 Hello! I'm Gabriel, a Computer Science Undergraduate! 👨‍💻💻
-
-#### 🚀 About Me
-I am a technology enthusiast in the **fifth semester** of Computer Science, with a solid background in Calculus, Mathematics, and Programming. I am passionate about **Software Engineering**, **Back-End Development**, **DevOps**, and **Cybersecurity**. I am always eager to learn new technologies and enhance my skills to tackle the challenges of the technological world.
-
-#### 🛠️ Experience as a Teaching Assistant
-At university, I served as a **Teaching Assistant for Software Development Fundamentals**, where I provided support to students in developing projects using:
-
-- **Python and Django**: Building robust web applications.
-- **Cypress**: Implementing automated tests to ensure software quality.
-- **Azure**: Managing deployments and Continuous Integration/Continuous Deployment (CI/CD).
-- **Agile Development**: Utilizing user stories and **BDD (Behavior-Driven Development)** to create solutions aligned with user needs.
-
-This experience allowed me to develop leadership, communication, and problem-solving skills in a collaborative environment.
+### 👋 Hello! I'm Gabriel, a Back-end developer! 👨‍💻💻
 
 #### 🧪 Scientific Research
 I participated in scientific research in the field of **Quantum Computing**, where I utilized the **Quantum Approximate Optimization Algorithm (QAOA)** to solve the **Job Shop Scheduling Problem**. This work resulted in the approval of **1 scientific paper**, contributing to the advancement of knowledge at the intersection of quantum computing and process optimization.
 
-#### 💡 Technical Skills
-- **Programming Languages**: Node.js, Python, C, Java, Go
-- **Frameworks and Tools**: Django, Spring-boot, Azure
-- **Databases**: MySQL
-
 #### 🎯 Current Focus
 Currently, I am focusing my studies on **Back-End Development** and **DevOps**, aiming to deepen my knowledge in technologies such as Docker, Kubernetes, AWS/Azure, and automation practices to enhance the efficiency and scalability of applications.
 
----
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielpires-1&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpires-1&hide_progress=false)
 
 # Technologies I Use
 
