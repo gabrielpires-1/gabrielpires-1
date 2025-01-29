@@ -1,8 +1,7 @@
 ### 👋 Hello! I'm Gabriel, a Back-end developer! 👨‍💻💻
 
 -  Computer Science student at [CESAR School](https://www.cesar.school/)
--  Developing back-end applications with Nest.js, Node.js, TypeScript, Java and Spring-boot.
--  Learning Cloud and DevOps concepts in AWS
+-  Developing back-end applications with Nest.js, Node.js, TypeScript and Golang!
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px; margin-bottom: 20px;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpires-1&layout=compact&langs_count=6"/>
